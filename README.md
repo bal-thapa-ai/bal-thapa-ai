@@ -3,6 +3,7 @@
 </p>
 
 <br>
+
 # 👋 Hi, I’m Bal Thapa  
 
 **AI & Machine Learning Engineer | Data Engineering | Cloud-Native Apps | Open Source Contributor**  
