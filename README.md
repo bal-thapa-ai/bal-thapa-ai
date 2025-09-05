@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/bal-thapa-ai/bal-thapa-ai/blob/main/assets/balthapa-header-2.png" alt="Bal Thapa | AI & Machine Learning Engineer" />
+</p>
+
 # 👋 Hi, I’m Bal Thapa  
 
 **AI & Machine Learning Engineer | Data Engineering • RAG Systems • Cloud-Native Apps | Building Intelligent, Data-Driven Solutions with .NET, Python & Cloud | Open Source Contributor**  
