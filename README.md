@@ -19,12 +19,12 @@
 ---
 
 ## 🚀 About Me  
-- 🌐 Senior Application Developer with **10+ years of enterprise .NET experience** and hands-on expertise in **AI/ML solutions**.  
-- 🤖 Focused on building **applied machine learning systems** — RAG frameworks, predictive models, and computer vision projects.  
+- 🌐 Senior Application Developer with **21+ years of enterprise experience** in .NET, cloud, and distributed systems.  
+- 🤖 Hands-on expertise in **AI/ML solutions** — building RAG frameworks, predictive models, and computer vision projects.  
 - ☁️ Skilled in **cloud-native apps with Microsoft Azure** and scalable API development.  
 - 📊 Strong background in **SQL Server, Vector Databases, and Data Engineering**.  
 - 💡 Passionate about creating **intelligent, data-driven applications** that bridge enterprise systems with AI/ML.  
-
+  
 ---
 
 ## 🛠️ Core Skills  
