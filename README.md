@@ -47,16 +47,19 @@
 🔹 **[Single-File RAG-in-a-Box](https://github.com/bal-thapa-ai/single-file-rag-in-a-box)**  
 *Lightweight single-file RAG system with FastAPI, ChromaDB, and SentenceTransformers.*  
 
+🔹 **[Medical Assistant – NLP RAG Project](https://github.com/bal-thapa-ai/nlp-rag-project-medical-assistant)**  
+*RAG-based NLP system using Merck Manual as a knowledge base with embeddings, ChromaDB retrieval, and LLM generation for clinical decision support.*  
+
 🔹 **[RAG-in-a-Box Framework](https://github.com/bal-thapa-ai/rag-in-a-box-framework)** *(coming soon)*  
 *Production-ready modular RAG framework with pluggable vector DBs and CI/CD.*  
 
-🔹 **[EasyVisa](https://github.com/bal-thapa-ai/easyvisa-ml)**  
+🔹 **[EasyVisa](https://github.com/bal-thapa-ai/advanced_ml_project_easyvisa)**  
 *Machine learning models predicting visa certification outcomes with 97% recall.*  
 
-🔹 **[HelmNet](https://github.com/bal-thapa-ai/helmnet-cnn)**  
+🔹 **[HelmNet](https://github.com/bal-thapa-ai/computer-vision-project-helmnet)**  
 *CNN-based computer vision system for real-time worker helmet compliance.*  
 
-🔹 **[FoodHub Data Analysis](https://github.com/bal-thapa-ai/foodhub-analysis)**  
+🔹 **[FoodHub Data Analysis](https://github.com/bal-thapa-ai/foodhub-data-analysis)**  
 *EDA and insights on food delivery behavior using Python, Pandas, and Seaborn.*  
 
 ---
