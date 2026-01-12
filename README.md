@@ -66,13 +66,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Bal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bal-thapa-ai&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bal-thapa-ai&layout=compact)  
-
----
-
 ## 🤝 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bal-thapa-ai)
 - 📧 tsanu.in@gmail.com  
