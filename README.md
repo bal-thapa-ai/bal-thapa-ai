@@ -18,12 +18,14 @@
 
 ---
 
-## 🚀 About Me  
-- 🌐 Senior Application Developer with **21+ years of enterprise experience** in .NET, cloud, and distributed systems.  
-- 🤖 Hands-on expertise in **AI/ML solutions** — building RAG frameworks, predictive models, and computer vision projects.  
-- ☁️ Skilled in **cloud-native apps with Microsoft Azure** and scalable API development.  
-- 📊 Strong background in **SQL Server, Vector Databases, and Data Engineering**.  
-- 💡 Passionate about creating **intelligent, data-driven applications** that bridge enterprise systems with AI/ML.  
+## 🚀 About Me
+- 🧱 **Senior Software Architect** with **21+ years of experience** designing, developing, and scaling enterprise-grade platforms using **.NET, Azure, and distributed systems**.
+- 🤖 Focused on **AI-enabled application architecture**, including **Retrieval-Augmented Generation (RAG)**, LLM-based systems, and applied machine learning.
+- ☁️ Specialized in **application-layer Azure architecture** using **App Services, Azure Functions, Azure SQL, Cosmos DB, and secure API design (OAuth/JWT)**.
+- 🧠 Strong background in **API-first design, business logic development, data modeling**, and **vector-based semantic search**.
+- 📊 Experienced with **SQL Server** and **vector databases** such as **ChromaDB, Qdrant, and pgvector**.
+- 💡 Passionate about building **production-ready, intelligent enterprise systems** that bridge traditional software engineering with modern AI.
+ 
   
 ---
 
